@@ -1,0 +1,418 @@
+Filters
+Region filter: All
+Infection type filter: Bloodstream
+Bacterial pathogen filter: Acinetobacter spp.
+
+Summary values with at least 10 BCIs with AST results
+"Specimen","PathogenName","AntibioticName","Min","Q1","Median","Q3","Max","CTAsCount","TotalBCIsWithAST"
+"Bloodstream","Acinetobacter spp.","Amikacin",0,10.843373494,44.206773619,70.476190476,94.418604651,77,43102
+"Bloodstream","Acinetobacter spp.","Colistin",0,0.978606393,3.851851852,8.26317716,47.540983607,46,15553
+"Bloodstream","Acinetobacter spp.","Doripenem",14.814814815,33.703703704,48.794642857,59.007513066,63.262195122,4,994
+"Bloodstream","Acinetobacter spp.","Gentamicin",0,27.698863636,54.435288415,67.289229751,96.875,83,44185
+"Bloodstream","Acinetobacter spp.","Imipenem",0,31.325301205,65.330188679,81.818181818,100,73,42540
+"Bloodstream","Acinetobacter spp.","Meropenem",0,23.138297872,60,76.349710443,98.742138365,79,43431
+"Bloodstream","Acinetobacter spp.","Minocycline",0.251730648,3.416856492,7.106598985,21.621621622,81.818181818,13,12864
+"Bloodstream","Acinetobacter spp.","Tigecycline",1.058201058,5.912698413,11.872836272,15.705128205,88.764044944,12,2839
+
+
+Summary values that consider CTAs with testing coverage above the 75th percentile
+"Specimen","PathogenName","AntibioticName","Min","Q1","Median","Q3","Max","CTAsCount","TotalBCIsWithAST"
+"Bloodstream","Acinetobacter spp.","Amikacin",4.545454545,41.176636034,64.242424242,84.054516563,94.418604651,19,15134
+"Bloodstream","Acinetobacter spp.","Colistin",0,1.246306538,4.976851852,9.698275862,38.709677419,12,2263
+"Bloodstream","Acinetobacter spp.","Doripenem",63.262195122,63.262195122,63.262195122,63.262195122,63.262195122,1,656
+"Bloodstream","Acinetobacter spp.","Gentamicin",4.347826087,36.697247706,57.432432432,82.5,95.391705069,21,17733
+"Bloodstream","Acinetobacter spp.","Imipenem",4.545454545,58.702475647,75.158227848,85.637049246,96.037463977,18,18933
+"Bloodstream","Acinetobacter spp.","Meropenem",4.347826087,55.309042809,72.407824576,86.583011583,98.507462687,20,18525
+"Bloodstream","Acinetobacter spp.","Minocycline",0.251730648,1.178496903,2.105263158,11.86344239,21.621621622,3,1816
+"Bloodstream","Acinetobacter spp.","Tigecycline",1.058201058,4.100529101,7.142857143,8.035714286,8.928571429,3,651
+
+
+Data for boxplots
+"Specimen","PathogenName","AntibioticName","Iso3","CountryTerritoryArea","WHORegionName","InterpretableAST","Resistant","ResistancePercentage"
+"Bloodstream","Acinetobacter spp.","Amikacin","ARE","United Arab Emirates","Eastern Mediterranean Region",83,9,10.843373494
+"Bloodstream","Acinetobacter spp.","Colistin","ARE","United Arab Emirates","Eastern Mediterranean Region",23,3,13.043478261
+"Bloodstream","Acinetobacter spp.","Gentamicin","ARE","United Arab Emirates","Eastern Mediterranean Region",147,16,10.884353741
+"Bloodstream","Acinetobacter spp.","Imipenem","ARE","United Arab Emirates","Eastern Mediterranean Region",135,15,11.111111111
+"Bloodstream","Acinetobacter spp.","Meropenem","ARE","United Arab Emirates","Eastern Mediterranean Region",144,15,10.416666667
+"Bloodstream","Acinetobacter spp.","Minocycline","ARE","United Arab Emirates","Eastern Mediterranean Region",28,1,3.571428571
+"Bloodstream","Acinetobacter spp.","Amikacin","ARG","Argentina","Region of the Americas",561,248,44.206773619
+"Bloodstream","Acinetobacter spp.","Colistin","ARG","Argentina","Region of the Americas",164,8,4.87804878
+"Bloodstream","Acinetobacter spp.","Gentamicin","ARG","Argentina","Region of the Americas",547,352,64.351005484
+"Bloodstream","Acinetobacter spp.","Imipenem","ARG","Argentina","Region of the Americas",560,406,72.5
+"Bloodstream","Acinetobacter spp.","Meropenem","ARG","Argentina","Region of the Americas",560,404,72.142857143
+"Bloodstream","Acinetobacter spp.","Minocycline","ARG","Argentina","Region of the Americas",421,95,22.565320665
+"Bloodstream","Acinetobacter spp.","Amikacin","AUS","Australia","Western Pacific Region",112,2,1.785714286
+"Bloodstream","Acinetobacter spp.","Colistin","AUS","Australia","Western Pacific Region",13,1,7.692307692
+"Bloodstream","Acinetobacter spp.","Gentamicin","AUS","Australia","Western Pacific Region",128,1,0.78125
+"Bloodstream","Acinetobacter spp.","Imipenem","AUS","Australia","Western Pacific Region",13,0,0
+"Bloodstream","Acinetobacter spp.","Meropenem","AUS","Australia","Western Pacific Region",125,1,0.8
+"Bloodstream","Acinetobacter spp.","Amikacin","AUT","Austria","European Region",74,4,5.405405405
+"Bloodstream","Acinetobacter spp.","Gentamicin","AUT","Austria","European Region",45,4,8.888888889
+"Bloodstream","Acinetobacter spp.","Imipenem","AUT","Austria","European Region",34,6,17.647058824
+"Bloodstream","Acinetobacter spp.","Meropenem","AUT","Austria","European Region",61,1,1.639344262
+"Bloodstream","Acinetobacter spp.","Amikacin","BEL","Belgium","European Region",135,8,5.925925926
+"Bloodstream","Acinetobacter spp.","Colistin","BEL","Belgium","European Region",16,0,0
+"Bloodstream","Acinetobacter spp.","Gentamicin","BEL","Belgium","European Region",111,6,5.405405405
+"Bloodstream","Acinetobacter spp.","Imipenem","BEL","Belgium","European Region",30,3,10
+"Bloodstream","Acinetobacter spp.","Meropenem","BEL","Belgium","European Region",162,5,3.086419753
+"Bloodstream","Acinetobacter spp.","Amikacin","BEN","Benin","African Region",159,15,9.433962264
+"Bloodstream","Acinetobacter spp.","Gentamicin","BEN","Benin","African Region",138,71,51.449275362
+"Bloodstream","Acinetobacter spp.","Imipenem","BEN","Benin","African Region",166,52,31.325301205
+"Bloodstream","Acinetobacter spp.","Meropenem","BEN","Benin","African Region",159,51,32.075471698
+"Bloodstream","Acinetobacter spp.","Amikacin","BFA","Burkina Faso","African Region",14,0,0
+"Bloodstream","Acinetobacter spp.","Gentamicin","BFA","Burkina Faso","African Region",16,10,62.5
+"Bloodstream","Acinetobacter spp.","Imipenem","BFA","Burkina Faso","African Region",16,10,62.5
+"Bloodstream","Acinetobacter spp.","Meropenem","BFA","Burkina Faso","African Region",11,7,63.636363636
+"Bloodstream","Acinetobacter spp.","Amikacin","BGD","Bangladesh","South-East Asia Region",75,59,78.666666667
+"Bloodstream","Acinetobacter spp.","Gentamicin","BGD","Bangladesh","South-East Asia Region",75,56,74.666666667
+"Bloodstream","Acinetobacter spp.","Imipenem","BGD","Bangladesh","South-East Asia Region",30,30,100
+"Bloodstream","Acinetobacter spp.","Meropenem","BGD","Bangladesh","South-East Asia Region",63,52,82.53968254
+"Bloodstream","Acinetobacter spp.","Amikacin","BHR","Bahrain","Eastern Mediterranean Region",91,57,62.637362637
+"Bloodstream","Acinetobacter spp.","Colistin","BHR","Bahrain","Eastern Mediterranean Region",76,11,14.473684211
+"Bloodstream","Acinetobacter spp.","Gentamicin","BHR","Bahrain","Eastern Mediterranean Region",92,61,66.304347826
+"Bloodstream","Acinetobacter spp.","Imipenem","BHR","Bahrain","Eastern Mediterranean Region",101,77,76.237623762
+"Bloodstream","Acinetobacter spp.","Meropenem","BHR","Bahrain","Eastern Mediterranean Region",101,78,77.227722772
+"Bloodstream","Acinetobacter spp.","Minocycline","BHR","Bahrain","Eastern Mediterranean Region",37,8,21.621621622
+"Bloodstream","Acinetobacter spp.","Tigecycline","BHR","Bahrain","Eastern Mediterranean Region",56,5,8.928571429
+"Bloodstream","Acinetobacter spp.","Amikacin","BIH","Bosnia and Herzegovina","European Region",215,203,94.418604651
+"Bloodstream","Acinetobacter spp.","Colistin","BIH","Bosnia and Herzegovina","European Region",67,1,1.492537313
+"Bloodstream","Acinetobacter spp.","Gentamicin","BIH","Bosnia and Herzegovina","European Region",217,207,95.391705069
+"Bloodstream","Acinetobacter spp.","Imipenem","BIH","Bosnia and Herzegovina","European Region",217,207,95.391705069
+"Bloodstream","Acinetobacter spp.","Meropenem","BIH","Bosnia and Herzegovina","European Region",216,206,95.37037037
+"Bloodstream","Acinetobacter spp.","Amikacin","BRA","Brazil","Region of the Americas",210,148,70.476190476
+"Bloodstream","Acinetobacter spp.","Gentamicin","BRA","Brazil","Region of the Americas",235,139,59.14893617
+"Bloodstream","Acinetobacter spp.","Imipenem","BRA","Brazil","Region of the Americas",113,73,64.601769912
+"Bloodstream","Acinetobacter spp.","Meropenem","BRA","Brazil","Region of the Americas",213,149,69.953051643
+"Bloodstream","Acinetobacter spp.","Amikacin","BRN","Brunei Darussalam","Western Pacific Region",159,26,16.352201258
+"Bloodstream","Acinetobacter spp.","Colistin","BRN","Brunei Darussalam","Western Pacific Region",48,3,6.25
+"Bloodstream","Acinetobacter spp.","Gentamicin","BRN","Brunei Darussalam","Western Pacific Region",159,73,45.911949686
+"Bloodstream","Acinetobacter spp.","Imipenem","BRN","Brunei Darussalam","Western Pacific Region",158,119,75.316455696
+"Bloodstream","Acinetobacter spp.","Meropenem","BRN","Brunei Darussalam","Western Pacific Region",159,120,75.471698113
+"Bloodstream","Acinetobacter spp.","Amikacin","BTN","Bhutan","South-East Asia Region",16,14,87.5
+"Bloodstream","Acinetobacter spp.","Gentamicin","BTN","Bhutan","South-East Asia Region",16,13,81.25
+"Bloodstream","Acinetobacter spp.","Imipenem","BTN","Bhutan","South-East Asia Region",10,9,90
+"Bloodstream","Acinetobacter spp.","Meropenem","BTN","Bhutan","South-East Asia Region",16,14,87.5
+"Bloodstream","Acinetobacter spp.","Gentamicin","CAN","Canada","Region of the Americas",128,3,2.34375
+"Bloodstream","Acinetobacter spp.","Meropenem","CAN","Canada","Region of the Americas",66,2,3.03030303
+"Bloodstream","Acinetobacter spp.","Amikacin","CHE","Switzerland","European Region",97,10,10.309278351
+"Bloodstream","Acinetobacter spp.","Colistin","CHE","Switzerland","European Region",12,0,0
+"Bloodstream","Acinetobacter spp.","Gentamicin","CHE","Switzerland","European Region",81,11,13.580246914
+"Bloodstream","Acinetobacter spp.","Imipenem","CHE","Switzerland","European Region",107,12,11.214953271
+"Bloodstream","Acinetobacter spp.","Meropenem","CHE","Switzerland","European Region",92,10,10.869565217
+"Bloodstream","Acinetobacter spp.","Amikacin","CMR","Cameroon","African Region",14,3,21.428571429
+"Bloodstream","Acinetobacter spp.","Gentamicin","CMR","Cameroon","African Region",20,8,40
+"Bloodstream","Acinetobacter spp.","Imipenem","CMR","Cameroon","African Region",20,6,30
+"Bloodstream","Acinetobacter spp.","Amikacin","COD","Democratic Republic of the Congo","African Region",30,14,46.666666667
+"Bloodstream","Acinetobacter spp.","Gentamicin","COD","Democratic Republic of the Congo","African Region",33,21,63.636363636
+"Bloodstream","Acinetobacter spp.","Imipenem","COD","Democratic Republic of the Congo","African Region",21,16,76.19047619
+"Bloodstream","Acinetobacter spp.","Amikacin","COL","Colombia","Region of the Americas",1412,90,6.373937677
+"Bloodstream","Acinetobacter spp.","Colistin","COL","Colombia","Region of the Americas",228,11,4.824561404
+"Bloodstream","Acinetobacter spp.","Doripenem","COL","Colombia","Region of the Americas",54,8,14.814814815
+"Bloodstream","Acinetobacter spp.","Gentamicin","COL","Colombia","Region of the Americas",1267,195,15.390686661
+"Bloodstream","Acinetobacter spp.","Imipenem","COL","Colombia","Region of the Americas",1227,282,22.982885086
+"Bloodstream","Acinetobacter spp.","Meropenem","COL","Colombia","Region of the Americas",1563,279,17.850287908
+"Bloodstream","Acinetobacter spp.","Minocycline","COL","Colombia","Region of the Americas",195,12,6.153846154
+"Bloodstream","Acinetobacter spp.","Tigecycline","COL","Colombia","Region of the Americas",567,6,1.058201058
+"Bloodstream","Acinetobacter spp.","Amikacin","CYP","Cyprus","European Region",69,54,78.260869565
+"Bloodstream","Acinetobacter spp.","Colistin","CYP","Cyprus","European Region",31,12,38.709677419
+"Bloodstream","Acinetobacter spp.","Gentamicin","CYP","Cyprus","European Region",122,104,85.245901639
+"Bloodstream","Acinetobacter spp.","Imipenem","CYP","Cyprus","European Region",94,81,86.170212766
+"Bloodstream","Acinetobacter spp.","Meropenem","CYP","Cyprus","European Region",37,33,89.189189189
+"Bloodstream","Acinetobacter spp.","Amikacin","CZE","Czechia","European Region",34,15,44.117647059
+"Bloodstream","Acinetobacter spp.","Colistin","CZE","Czechia","European Region",55,1,1.818181818
+"Bloodstream","Acinetobacter spp.","Gentamicin","CZE","Czechia","European Region",32,9,28.125
+"Bloodstream","Acinetobacter spp.","Imipenem","CZE","Czechia","European Region",43,15,34.88372093
+"Bloodstream","Acinetobacter spp.","Meropenem","CZE","Czechia","European Region",46,17,36.956521739
+"Bloodstream","Acinetobacter spp.","Amikacin","DEU","Germany","European Region",269,6,2.230483271
+"Bloodstream","Acinetobacter spp.","Gentamicin","DEU","Germany","European Region",529,16,3.024574669
+"Bloodstream","Acinetobacter spp.","Imipenem","DEU","Germany","European Region",335,10,2.985074627
+"Bloodstream","Acinetobacter spp.","Meropenem","DEU","Germany","European Region",475,16,3.368421053
+"Bloodstream","Acinetobacter spp.","Gentamicin","DNK","Denmark","European Region",87,2,2.298850575
+"Bloodstream","Acinetobacter spp.","Meropenem","DNK","Denmark","European Region",89,2,2.247191011
+"Bloodstream","Acinetobacter spp.","Amikacin","DZA","Algeria","African Region",192,151,78.645833333
+"Bloodstream","Acinetobacter spp.","Colistin","DZA","Algeria","African Region",99,0,0
+"Bloodstream","Acinetobacter spp.","Gentamicin","DZA","Algeria","African Region",162,143,88.271604938
+"Bloodstream","Acinetobacter spp.","Imipenem","DZA","Algeria","African Region",211,180,85.308056872
+"Bloodstream","Acinetobacter spp.","Meropenem","DZA","Algeria","African Region",33,31,93.939393939
+"Bloodstream","Acinetobacter spp.","Minocycline","DZA","Algeria","African Region",22,18,81.818181818
+"Bloodstream","Acinetobacter spp.","Amikacin","EGY","Egypt","Eastern Mediterranean Region",69,53,76.811594203
+"Bloodstream","Acinetobacter spp.","Gentamicin","EGY","Egypt","Eastern Mediterranean Region",68,50,73.529411765
+"Bloodstream","Acinetobacter spp.","Imipenem","EGY","Egypt","Eastern Mediterranean Region",80,56,70
+"Bloodstream","Acinetobacter spp.","Meropenem","EGY","Egypt","Eastern Mediterranean Region",84,58,69.047619048
+"Bloodstream","Acinetobacter spp.","Amikacin","EST","Estonia","European Region",11,1,9.090909091
+"Bloodstream","Acinetobacter spp.","Gentamicin","EST","Estonia","European Region",10,3,30
+"Bloodstream","Acinetobacter spp.","Imipenem","EST","Estonia","European Region",13,3,23.076923077
+"Bloodstream","Acinetobacter spp.","Amikacin","ETH","Ethiopia","African Region",233,63,27.038626609
+"Bloodstream","Acinetobacter spp.","Gentamicin","ETH","Ethiopia","African Region",382,218,57.068062827
+"Bloodstream","Acinetobacter spp.","Imipenem","ETH","Ethiopia","African Region",28,12,42.857142857
+"Bloodstream","Acinetobacter spp.","Meropenem","ETH","Ethiopia","African Region",361,165,45.706371191
+"Bloodstream","Acinetobacter spp.","Meropenem","FIN","Finland","European Region",31,0,0
+"Bloodstream","Acinetobacter spp.","Amikacin","GBR","United Kingdom of Great Britain and Northern Ireland","European Region",605,10,1.652892562
+"Bloodstream","Acinetobacter spp.","Colistin","GBR","United Kingdom of Great Britain and Northern Ireland","European Region",39,2,5.128205128
+"Bloodstream","Acinetobacter spp.","Gentamicin","GBR","United Kingdom of Great Britain and Northern Ireland","European Region",997,28,2.808425276
+"Bloodstream","Acinetobacter spp.","Imipenem","GBR","United Kingdom of Great Britain and Northern Ireland","European Region",212,9,4.245283019
+"Bloodstream","Acinetobacter spp.","Meropenem","GBR","United Kingdom of Great Britain and Northern Ireland","European Region",1034,23,2.224371373
+"Bloodstream","Acinetobacter spp.","Amikacin","GEO","Georgia","European Region",101,85,84.158415842
+"Bloodstream","Acinetobacter spp.","Colistin","GEO","Georgia","European Region",97,3,3.092783505
+"Bloodstream","Acinetobacter spp.","Gentamicin","GEO","Georgia","European Region",100,77,77
+"Bloodstream","Acinetobacter spp.","Imipenem","GEO","Georgia","European Region",75,65,86.666666667
+"Bloodstream","Acinetobacter spp.","Meropenem","GEO","Georgia","European Region",98,84,85.714285714
+"Bloodstream","Acinetobacter spp.","Amikacin","GHA","Ghana","African Region",23,3,13.043478261
+"Bloodstream","Acinetobacter spp.","Gentamicin","GHA","Ghana","African Region",28,12,42.857142857
+"Bloodstream","Acinetobacter spp.","Meropenem","GHA","Ghana","African Region",18,9,50
+"Bloodstream","Acinetobacter spp.","Amikacin","GRC","Greece","European Region",1523,1423,93.434011819
+"Bloodstream","Acinetobacter spp.","Colistin","GRC","Greece","European Region",61,29,47.540983607
+"Bloodstream","Acinetobacter spp.","Gentamicin","GRC","Greece","European Region",1518,1336,88.010540184
+"Bloodstream","Acinetobacter spp.","Imipenem","GRC","Greece","European Region",1388,1333,96.037463977
+"Bloodstream","Acinetobacter spp.","Meropenem","GRC","Greece","European Region",151,133,88.079470199
+"Bloodstream","Acinetobacter spp.","Amikacin","HKG","China, Hong Kong SAR","Western Pacific Region",226,48,21.238938053
+"Bloodstream","Acinetobacter spp.","Colistin","HKG","China, Hong Kong SAR","Western Pacific Region",84,1,1.19047619
+"Bloodstream","Acinetobacter spp.","Gentamicin","HKG","China, Hong Kong SAR","Western Pacific Region",226,58,25.663716814
+"Bloodstream","Acinetobacter spp.","Imipenem","HKG","China, Hong Kong SAR","Western Pacific Region",223,126,56.502242152
+"Bloodstream","Acinetobacter spp.","Meropenem","HKG","China, Hong Kong SAR","Western Pacific Region",190,114,60
+"Bloodstream","Acinetobacter spp.","Minocycline","HKG","China, Hong Kong SAR","Western Pacific Region",190,4,2.105263158
+"Bloodstream","Acinetobacter spp.","Tigecycline","HKG","China, Hong Kong SAR","Western Pacific Region",45,1,2.222222222
+"Bloodstream","Acinetobacter spp.","Amikacin","HRV","Croatia","European Region",153,138,90.196078431
+"Bloodstream","Acinetobacter spp.","Colistin","HRV","Croatia","European Region",108,4,3.703703704
+"Bloodstream","Acinetobacter spp.","Gentamicin","HRV","Croatia","European Region",258,238,92.248062016
+"Bloodstream","Acinetobacter spp.","Imipenem","HRV","Croatia","European Region",97,91,93.81443299
+"Bloodstream","Acinetobacter spp.","Meropenem","HRV","Croatia","European Region",163,158,96.932515337
+"Bloodstream","Acinetobacter spp.","Amikacin","IDN","Indonesia","South-East Asia Region",1795,756,42.116991643
+"Bloodstream","Acinetobacter spp.","Colistin","IDN","Indonesia","South-East Asia Region",79,15,18.987341772
+"Bloodstream","Acinetobacter spp.","Doripenem","IDN","Indonesia","South-East Asia Region",224,129,57.589285714
+"Bloodstream","Acinetobacter spp.","Gentamicin","IDN","Indonesia","South-East Asia Region",1787,1085,60.716284275
+"Bloodstream","Acinetobacter spp.","Imipenem","IDN","Indonesia","South-East Asia Region",848,554,65.330188679
+"Bloodstream","Acinetobacter spp.","Meropenem","IDN","Indonesia","South-East Asia Region",1706,1000,58.616647128
+"Bloodstream","Acinetobacter spp.","Tigecycline","IDN","Indonesia","South-East Asia Region",1306,143,10.949464012
+"Bloodstream","Acinetobacter spp.","Amikacin","IND","India","South-East Asia Region",10244,6477,63.227254979
+"Bloodstream","Acinetobacter spp.","Colistin","IND","India","South-East Asia Region",6726,65,0.966399048
+"Bloodstream","Acinetobacter spp.","Gentamicin","IND","India","South-East Asia Region",8298,4940,59.53241745
+"Bloodstream","Acinetobacter spp.","Imipenem","IND","India","South-East Asia Region",9946,7102,71.405590187
+"Bloodstream","Acinetobacter spp.","Meropenem","IND","India","South-East Asia Region",7827,5394,68.915293216
+"Bloodstream","Acinetobacter spp.","Minocycline","IND","India","South-East Asia Region",7839,2073,26.444699579
+"Bloodstream","Acinetobacter spp.","Amikacin","IRL","Ireland","European Region",26,1,3.846153846
+"Bloodstream","Acinetobacter spp.","Gentamicin","IRL","Ireland","European Region",56,0,0
+"Bloodstream","Acinetobacter spp.","Imipenem","IRL","Ireland","European Region",12,0,0
+"Bloodstream","Acinetobacter spp.","Meropenem","IRL","Ireland","European Region",51,0,0
+"Bloodstream","Acinetobacter spp.","Amikacin","IRN","Iran (Islamic Republic of)","Eastern Mediterranean Region",624,429,68.75
+"Bloodstream","Acinetobacter spp.","Colistin","IRN","Iran (Islamic Republic of)","Eastern Mediterranean Region",55,4,7.272727273
+"Bloodstream","Acinetobacter spp.","Gentamicin","IRN","Iran (Islamic Republic of)","Eastern Mediterranean Region",552,352,63.768115942
+"Bloodstream","Acinetobacter spp.","Imipenem","IRN","Iran (Islamic Republic of)","Eastern Mediterranean Region",511,425,83.170254403
+"Bloodstream","Acinetobacter spp.","Meropenem","IRN","Iran (Islamic Republic of)","Eastern Mediterranean Region",475,406,85.473684211
+"Bloodstream","Acinetobacter spp.","Minocycline","IRN","Iran (Islamic Republic of)","Eastern Mediterranean Region",376,67,17.819148936
+"Bloodstream","Acinetobacter spp.","Amikacin","IRQ","Iraq","Eastern Mediterranean Region",263,147,55.893536122
+"Bloodstream","Acinetobacter spp.","Colistin","IRQ","Iraq","Eastern Mediterranean Region",242,17,7.024793388
+"Bloodstream","Acinetobacter spp.","Gentamicin","IRQ","Iraq","Eastern Mediterranean Region",437,322,73.684210526
+"Bloodstream","Acinetobacter spp.","Imipenem","IRQ","Iraq","Eastern Mediterranean Region",457,358,78.336980306
+"Bloodstream","Acinetobacter spp.","Meropenem","IRQ","Iraq","Eastern Mediterranean Region",499,363,72.745490982
+"Bloodstream","Acinetobacter spp.","Minocycline","IRQ","Iraq","Eastern Mediterranean Region",236,33,13.983050847
+"Bloodstream","Acinetobacter spp.","Amikacin","ITA","Italy","European Region",1673,1118,66.826060968
+"Bloodstream","Acinetobacter spp.","Colistin","ITA","Italy","European Region",1366,110,8.052708638
+"Bloodstream","Acinetobacter spp.","Gentamicin","ITA","Italy","European Region",2651,1935,72.991324029
+"Bloodstream","Acinetobacter spp.","Imipenem","ITA","Italy","European Region",1368,1095,80.043859649
+"Bloodstream","Acinetobacter spp.","Meropenem","ITA","Italy","European Region",1690,1221,72.24852071
+"Bloodstream","Acinetobacter spp.","Amikacin","JOR","Jordan","Eastern Mediterranean Region",330,212,64.242424242
+"Bloodstream","Acinetobacter spp.","Colistin","JOR","Jordan","Eastern Mediterranean Region",197,1,0.507614213
+"Bloodstream","Acinetobacter spp.","Gentamicin","JOR","Jordan","Eastern Mediterranean Region",296,170,57.432432432
+"Bloodstream","Acinetobacter spp.","Imipenem","JOR","Jordan","Eastern Mediterranean Region",308,231,75
+"Bloodstream","Acinetobacter spp.","Meropenem","JOR","Jordan","Eastern Mediterranean Region",253,183,72.33201581
+"Bloodstream","Acinetobacter spp.","Tigecycline","JOR","Jordan","Eastern Mediterranean Region",12,2,16.666666667
+"Bloodstream","Acinetobacter spp.","Amikacin","JPN","Japan","Western Pacific Region",1712,16,0.934579439
+"Bloodstream","Acinetobacter spp.","Gentamicin","JPN","Japan","Western Pacific Region",1529,63,4.120340092
+"Bloodstream","Acinetobacter spp.","Imipenem","JPN","Japan","Western Pacific Region",1560,12,0.769230769
+"Bloodstream","Acinetobacter spp.","Meropenem","JPN","Japan","Western Pacific Region",1754,16,0.912200684
+"Bloodstream","Acinetobacter spp.","Minocycline","JPN","Japan","Western Pacific Region",1589,4,0.251730648
+"Bloodstream","Acinetobacter spp.","Amikacin","KEN","Kenya","African Region",31,7,22.580645161
+"Bloodstream","Acinetobacter spp.","Gentamicin","KEN","Kenya","African Region",83,41,49.397590361
+"Bloodstream","Acinetobacter spp.","Meropenem","KEN","Kenya","African Region",72,50,69.444444444
+"Bloodstream","Acinetobacter spp.","Amikacin","KHM","Cambodia","Western Pacific Region",315,72,22.857142857
+"Bloodstream","Acinetobacter spp.","Gentamicin","KHM","Cambodia","Western Pacific Region",328,103,31.402439024
+"Bloodstream","Acinetobacter spp.","Imipenem","KHM","Cambodia","Western Pacific Region",82,35,42.682926829
+"Bloodstream","Acinetobacter spp.","Meropenem","KHM","Cambodia","Western Pacific Region",329,101,30.699088146
+"Bloodstream","Acinetobacter spp.","Amikacin","KOR","Republic of Korea","Western Pacific Region",394,249,63.197969543
+"Bloodstream","Acinetobacter spp.","Colistin","KOR","Republic of Korea","Western Pacific Region",394,4,1.015228426
+"Bloodstream","Acinetobacter spp.","Gentamicin","KOR","Republic of Korea","Western Pacific Region",394,269,68.274111675
+"Bloodstream","Acinetobacter spp.","Imipenem","KOR","Republic of Korea","Western Pacific Region",394,305,77.411167513
+"Bloodstream","Acinetobacter spp.","Meropenem","KOR","Republic of Korea","Western Pacific Region",394,308,78.172588832
+"Bloodstream","Acinetobacter spp.","Minocycline","KOR","Republic of Korea","Western Pacific Region",394,28,7.106598985
+"Bloodstream","Acinetobacter spp.","Tigecycline","KOR","Republic of Korea","Western Pacific Region",394,8,2.030456853
+"Bloodstream","Acinetobacter spp.","Colistin","KWT","Kuwait","Eastern Mediterranean Region",69,2,2.898550725
+"Bloodstream","Acinetobacter spp.","Gentamicin","KWT","Kuwait","Eastern Mediterranean Region",109,40,36.697247706
+"Bloodstream","Acinetobacter spp.","Imipenem","KWT","Kuwait","Eastern Mediterranean Region",100,56,56
+"Bloodstream","Acinetobacter spp.","Meropenem","KWT","Kuwait","Eastern Mediterranean Region",108,58,53.703703704
+"Bloodstream","Acinetobacter spp.","Tigecycline","KWT","Kuwait","Eastern Mediterranean Region",39,6,15.384615385
+"Bloodstream","Acinetobacter spp.","Amikacin","LAO","Lao People's Democratic Republic","Western Pacific Region",58,14,24.137931034
+"Bloodstream","Acinetobacter spp.","Gentamicin","LAO","Lao People's Democratic Republic","Western Pacific Region",54,19,35.185185185
+"Bloodstream","Acinetobacter spp.","Meropenem","LAO","Lao People's Democratic Republic","Western Pacific Region",57,12,21.052631579
+"Bloodstream","Acinetobacter spp.","Imipenem","LKA","Sri Lanka","South-East Asia Region",55,41,74.545454545
+"Bloodstream","Acinetobacter spp.","Meropenem","LKA","Sri Lanka","South-East Asia Region",66,47,71.212121212
+"Bloodstream","Acinetobacter spp.","Amikacin","LTU","Lithuania","European Region",81,68,83.950617284
+"Bloodstream","Acinetobacter spp.","Colistin","LTU","Lithuania","European Region",41,9,21.951219512
+"Bloodstream","Acinetobacter spp.","Gentamicin","LTU","Lithuania","European Region",120,99,82.5
+"Bloodstream","Acinetobacter spp.","Imipenem","LTU","Lithuania","European Region",55,47,85.454545455
+"Bloodstream","Acinetobacter spp.","Meropenem","LTU","Lithuania","European Region",67,66,98.507462687
+"Bloodstream","Acinetobacter spp.","Amikacin","LVA","Latvia","European Region",55,31,56.363636364
+"Bloodstream","Acinetobacter spp.","Gentamicin","LVA","Latvia","European Region",55,16,29.090909091
+"Bloodstream","Acinetobacter spp.","Imipenem","LVA","Latvia","European Region",55,37,67.272727273
+"Bloodstream","Acinetobacter spp.","Amikacin","MAR","Morocco","Eastern Mediterranean Region",268,217,80.970149254
+"Bloodstream","Acinetobacter spp.","Gentamicin","MAR","Morocco","Eastern Mediterranean Region",267,238,89.138576779
+"Bloodstream","Acinetobacter spp.","Imipenem","MAR","Morocco","Eastern Mediterranean Region",268,243,90.671641791
+"Bloodstream","Acinetobacter spp.","Meropenem","MAR","Morocco","Eastern Mediterranean Region",159,157,98.742138365
+"Bloodstream","Acinetobacter spp.","Tigecycline","MAR","Morocco","Eastern Mediterranean Region",89,79,88.764044944
+"Bloodstream","Acinetobacter spp.","Amikacin","MDA","Republic of Moldova","European Region",62,53,85.483870968
+"Bloodstream","Acinetobacter spp.","Colistin","MDA","Republic of Moldova","European Region",25,1,4
+"Bloodstream","Acinetobacter spp.","Gentamicin","MDA","Republic of Moldova","European Region",61,40,65.573770492
+"Bloodstream","Acinetobacter spp.","Imipenem","MDA","Republic of Moldova","European Region",61,52,85.245901639
+"Bloodstream","Acinetobacter spp.","Meropenem","MDA","Republic of Moldova","European Region",62,53,85.483870968
+"Bloodstream","Acinetobacter spp.","Colistin","MDV","Maldives","South-East Asia Region",12,1,8.333333333
+"Bloodstream","Acinetobacter spp.","Gentamicin","MDV","Maldives","South-East Asia Region",12,4,33.333333333
+"Bloodstream","Acinetobacter spp.","Imipenem","MDV","Maldives","South-East Asia Region",12,3,25
+"Bloodstream","Acinetobacter spp.","Meropenem","MDV","Maldives","South-East Asia Region",12,3,25
+"Bloodstream","Acinetobacter spp.","Amikacin","MKD","North Macedonia","European Region",32,30,93.75
+"Bloodstream","Acinetobacter spp.","Colistin","MKD","North Macedonia","European Region",20,0,0
+"Bloodstream","Acinetobacter spp.","Gentamicin","MKD","North Macedonia","European Region",32,31,96.875
+"Bloodstream","Acinetobacter spp.","Imipenem","MKD","North Macedonia","European Region",31,31,100
+"Bloodstream","Acinetobacter spp.","Meropenem","MKD","North Macedonia","European Region",31,30,96.774193548
+"Bloodstream","Acinetobacter spp.","Amikacin","MLI","Mali","African Region",23,0,0
+"Bloodstream","Acinetobacter spp.","Gentamicin","MLI","Mali","African Region",22,6,27.272727273
+"Bloodstream","Acinetobacter spp.","Imipenem","MLI","Mali","African Region",20,7,35
+"Bloodstream","Acinetobacter spp.","Meropenem","MLI","Mali","African Region",10,4,40
+"Bloodstream","Acinetobacter spp.","Amikacin","MLT","Malta","European Region",22,1,4.545454545
+"Bloodstream","Acinetobacter spp.","Colistin","MLT","Malta","European Region",19,0,0
+"Bloodstream","Acinetobacter spp.","Gentamicin","MLT","Malta","European Region",23,1,4.347826087
+"Bloodstream","Acinetobacter spp.","Imipenem","MLT","Malta","European Region",22,1,4.545454545
+"Bloodstream","Acinetobacter spp.","Meropenem","MLT","Malta","European Region",23,1,4.347826087
+"Bloodstream","Acinetobacter spp.","Amikacin","MMR","Myanmar","South-East Asia Region",12,1,8.333333333
+"Bloodstream","Acinetobacter spp.","Gentamicin","MMR","Myanmar","South-East Asia Region",12,3,25
+"Bloodstream","Acinetobacter spp.","Imipenem","MMR","Myanmar","South-East Asia Region",12,4,33.333333333
+"Bloodstream","Acinetobacter spp.","Gentamicin","MOZ","Mozambique","African Region",11,6,54.545454545
+"Bloodstream","Acinetobacter spp.","Amikacin","MUS","Mauritius","African Region",213,155,72.769953052
+"Bloodstream","Acinetobacter spp.","Colistin","MUS","Mauritius","African Region",213,1,0.469483568
+"Bloodstream","Acinetobacter spp.","Gentamicin","MUS","Mauritius","African Region",213,182,85.44600939
+"Bloodstream","Acinetobacter spp.","Imipenem","MUS","Mauritius","African Region",213,179,84.037558685
+"Bloodstream","Acinetobacter spp.","Meropenem","MUS","Mauritius","African Region",213,181,84.976525822
+"Bloodstream","Acinetobacter spp.","Amikacin","MWI","Malawi","African Region",46,7,15.217391304
+"Bloodstream","Acinetobacter spp.","Gentamicin","MWI","Malawi","African Region",48,30,62.5
+"Bloodstream","Acinetobacter spp.","Meropenem","MWI","Malawi","African Region",53,22,41.509433962
+"Bloodstream","Acinetobacter spp.","Amikacin","MYS","Malaysia","Western Pacific Region",2659,883,33.207972922
+"Bloodstream","Acinetobacter spp.","Colistin","MYS","Malaysia","Western Pacific Region",34,0,0
+"Bloodstream","Acinetobacter spp.","Gentamicin","MYS","Malaysia","Western Pacific Region",2652,993,37.443438914
+"Bloodstream","Acinetobacter spp.","Imipenem","MYS","Malaysia","Western Pacific Region",2657,1299,48.889725254
+"Bloodstream","Acinetobacter spp.","Meropenem","MYS","Malaysia","Western Pacific Region",2640,1318,49.924242424
+"Bloodstream","Acinetobacter spp.","Tigecycline","MYS","Malaysia","Western Pacific Region",211,27,12.796208531
+"Bloodstream","Acinetobacter spp.","Amikacin","NGA","Nigeria","African Region",32,4,12.5
+"Bloodstream","Acinetobacter spp.","Gentamicin","NGA","Nigeria","African Region",36,15,41.666666667
+"Bloodstream","Acinetobacter spp.","Meropenem","NGA","Nigeria","African Region",24,12,50
+"Bloodstream","Acinetobacter spp.","Amikacin","NLD","Netherlands (Kingdom of the)","European Region",25,2,8
+"Bloodstream","Acinetobacter spp.","Gentamicin","NLD","Netherlands (Kingdom of the)","European Region",115,6,5.217391304
+"Bloodstream","Acinetobacter spp.","Imipenem","NLD","Netherlands (Kingdom of the)","European Region",69,1,1.449275362
+"Bloodstream","Acinetobacter spp.","Meropenem","NLD","Netherlands (Kingdom of the)","European Region",139,2,1.438848921
+"Bloodstream","Acinetobacter spp.","Gentamicin","NOR","Norway","European Region",25,0,0
+"Bloodstream","Acinetobacter spp.","Meropenem","NOR","Norway","European Region",33,0,0
+"Bloodstream","Acinetobacter spp.","Amikacin","NPL","Nepal","South-East Asia Region",486,226,46.502057613
+"Bloodstream","Acinetobacter spp.","Gentamicin","NPL","Nepal","South-East Asia Region",492,232,47.154471545
+"Bloodstream","Acinetobacter spp.","Imipenem","NPL","Nepal","South-East Asia Region",273,142,52.014652015
+"Bloodstream","Acinetobacter spp.","Meropenem","NPL","Nepal","South-East Asia Region",451,212,47.006651885
+"Bloodstream","Acinetobacter spp.","Amikacin","OMN","Oman","Eastern Mediterranean Region",234,115,49.145299145
+"Bloodstream","Acinetobacter spp.","Colistin","OMN","Oman","Eastern Mediterranean Region",39,3,7.692307692
+"Bloodstream","Acinetobacter spp.","Gentamicin","OMN","Oman","Eastern Mediterranean Region",232,124,53.448275862
+"Bloodstream","Acinetobacter spp.","Imipenem","OMN","Oman","Eastern Mediterranean Region",128,68,53.125
+"Bloodstream","Acinetobacter spp.","Meropenem","OMN","Oman","Eastern Mediterranean Region",231,129,55.844155844
+"Bloodstream","Acinetobacter spp.","Tigecycline","OMN","Oman","Eastern Mediterranean Region",18,10,55.555555556
+"Bloodstream","Acinetobacter spp.","Amikacin","PAK","Pakistan","Eastern Mediterranean Region",2642,1512,57.229371688
+"Bloodstream","Acinetobacter spp.","Colistin","PAK","Pakistan","Eastern Mediterranean Region",951,24,2.523659306
+"Bloodstream","Acinetobacter spp.","Gentamicin","PAK","Pakistan","Eastern Mediterranean Region",2063,1123,54.435288415
+"Bloodstream","Acinetobacter spp.","Imipenem","PAK","Pakistan","Eastern Mediterranean Region",2456,1638,66.693811075
+"Bloodstream","Acinetobacter spp.","Meropenem","PAK","Pakistan","Eastern Mediterranean Region",2482,1708,68.815471394
+"Bloodstream","Acinetobacter spp.","Minocycline","PAK","Pakistan","Eastern Mediterranean Region",878,30,3.416856492
+"Bloodstream","Acinetobacter spp.","Amikacin","PER","Peru","Region of the Americas",51,6,11.764705882
+"Bloodstream","Acinetobacter spp.","Colistin","PER","Peru","Region of the Americas",57,0,0
+"Bloodstream","Acinetobacter spp.","Gentamicin","PER","Peru","Region of the Americas",123,79,64.227642276
+"Bloodstream","Acinetobacter spp.","Imipenem","PER","Peru","Region of the Americas",11,9,81.818181818
+"Bloodstream","Acinetobacter spp.","Meropenem","PER","Peru","Region of the Americas",12,9,75
+"Bloodstream","Acinetobacter spp.","Amikacin","PHL","Philippines","Western Pacific Region",1007,278,27.606752731
+"Bloodstream","Acinetobacter spp.","Colistin","PHL","Philippines","Western Pacific Region",398,10,2.512562814
+"Bloodstream","Acinetobacter spp.","Doripenem","PHL","Philippines","Western Pacific Region",60,24,40
+"Bloodstream","Acinetobacter spp.","Gentamicin","PHL","Philippines","Western Pacific Region",1428,426,29.831932773
+"Bloodstream","Acinetobacter spp.","Imipenem","PHL","Philippines","Western Pacific Region",1496,622,41.577540107
+"Bloodstream","Acinetobacter spp.","Meropenem","PHL","Philippines","Western Pacific Region",1571,605,38.510502864
+"Bloodstream","Acinetobacter spp.","Minocycline","PHL","Philippines","Western Pacific Region",659,22,3.338391502
+"Bloodstream","Acinetobacter spp.","Amikacin","POL","Poland","European Region",396,261,65.909090909
+"Bloodstream","Acinetobacter spp.","Colistin","POL","Poland","European Region",48,2,4.166666667
+"Bloodstream","Acinetobacter spp.","Gentamicin","POL","Poland","European Region",425,291,68.470588235
+"Bloodstream","Acinetobacter spp.","Imipenem","POL","Poland","European Region",425,345,81.176470588
+"Bloodstream","Acinetobacter spp.","Meropenem","POL","Poland","European Region",20,10,50
+"Bloodstream","Acinetobacter spp.","Amikacin","PSE","occupied Palestinian territory, including east Jerusalem","Eastern Mediterranean Region",102,67,65.68627451
+"Bloodstream","Acinetobacter spp.","Colistin","PSE","occupied Palestinian territory, including east Jerusalem","Eastern Mediterranean Region",52,0,0
+"Bloodstream","Acinetobacter spp.","Gentamicin","PSE","occupied Palestinian territory, including east Jerusalem","Eastern Mediterranean Region",102,66,64.705882353
+"Bloodstream","Acinetobacter spp.","Imipenem","PSE","occupied Palestinian territory, including east Jerusalem","Eastern Mediterranean Region",76,40,52.631578947
+"Bloodstream","Acinetobacter spp.","Meropenem","PSE","occupied Palestinian territory, including east Jerusalem","Eastern Mediterranean Region",120,77,64.166666667
+"Bloodstream","Acinetobacter spp.","Amikacin","QAT","Qatar","Eastern Mediterranean Region",41,1,2.43902439
+"Bloodstream","Acinetobacter spp.","Gentamicin","QAT","Qatar","Eastern Mediterranean Region",43,3,6.976744186
+"Bloodstream","Acinetobacter spp.","Imipenem","QAT","Qatar","Eastern Mediterranean Region",39,1,2.564102564
+"Bloodstream","Acinetobacter spp.","Meropenem","QAT","Qatar","Eastern Mediterranean Region",42,1,2.380952381
+"Bloodstream","Acinetobacter spp.","Tigecycline","QAT","Qatar","Eastern Mediterranean Region",28,2,7.142857143
+"Bloodstream","Acinetobacter spp.","Amikacin","RUS","Russian Federation","European Region",1376,1186,86.191860465
+"Bloodstream","Acinetobacter spp.","Colistin","RUS","Russian Federation","European Region",646,23,3.560371517
+"Bloodstream","Acinetobacter spp.","Gentamicin","RUS","Russian Federation","European Region",1041,726,69.740634006
+"Bloodstream","Acinetobacter spp.","Imipenem","RUS","Russian Federation","European Region",1302,1149,88.248847926
+"Bloodstream","Acinetobacter spp.","Meropenem","RUS","Russian Federation","European Region",1344,676,50.297619048
+"Bloodstream","Acinetobacter spp.","Amikacin","SAU","Saudi Arabia","Eastern Mediterranean Region",129,81,62.790697674
+"Bloodstream","Acinetobacter spp.","Colistin","SAU","Saudi Arabia","Eastern Mediterranean Region",88,11,12.5
+"Bloodstream","Acinetobacter spp.","Gentamicin","SAU","Saudi Arabia","Eastern Mediterranean Region",167,86,51.497005988
+"Bloodstream","Acinetobacter spp.","Imipenem","SAU","Saudi Arabia","Eastern Mediterranean Region",155,120,77.419354839
+"Bloodstream","Acinetobacter spp.","Meropenem","SAU","Saudi Arabia","Eastern Mediterranean Region",167,118,70.658682635
+"Bloodstream","Acinetobacter spp.","Tigecycline","SAU","Saudi Arabia","Eastern Mediterranean Region",74,10,13.513513514
+"Bloodstream","Acinetobacter spp.","Amikacin","SGP","Singapore","Western Pacific Region",47,8,17.021276596
+"Bloodstream","Acinetobacter spp.","Gentamicin","SGP","Singapore","Western Pacific Region",46,6,13.043478261
+"Bloodstream","Acinetobacter spp.","Meropenem","SGP","Singapore","Western Pacific Region",47,10,21.276595745
+"Bloodstream","Acinetobacter spp.","Amikacin","SWE","Sweden","European Region",70,6,8.571428571
+"Bloodstream","Acinetobacter spp.","Gentamicin","SWE","Sweden","European Region",87,1,1.149425287
+"Bloodstream","Acinetobacter spp.","Imipenem","SWE","Sweden","European Region",125,3,2.4
+"Bloodstream","Acinetobacter spp.","Meropenem","SWE","Sweden","European Region",31,0,0
+"Bloodstream","Acinetobacter spp.","Amikacin","THA","Thailand","South-East Asia Region",1874,871,46.478121665
+"Bloodstream","Acinetobacter spp.","Colistin","THA","Thailand","South-East Asia Region",1110,9,0.810810811
+"Bloodstream","Acinetobacter spp.","Doripenem","THA","Thailand","South-East Asia Region",656,415,63.262195122
+"Bloodstream","Acinetobacter spp.","Gentamicin","THA","Thailand","South-East Asia Region",1533,848,55.316373125
+"Bloodstream","Acinetobacter spp.","Imipenem","THA","Thailand","South-East Asia Region",2078,1357,65.303176131
+"Bloodstream","Acinetobacter spp.","Meropenem","THA","Thailand","South-East Asia Region",2095,1362,65.011933174
+"Bloodstream","Acinetobacter spp.","Amikacin","TLS","Timor-Leste","South-East Asia Region",17,2,11.764705882
+"Bloodstream","Acinetobacter spp.","Gentamicin","TLS","Timor-Leste","South-East Asia Region",16,5,31.25
+"Bloodstream","Acinetobacter spp.","Meropenem","TLS","Timor-Leste","South-East Asia Region",17,6,35.294117647
+"Bloodstream","Acinetobacter spp.","Amikacin","TUN","Tunisia","Eastern Mediterranean Region",163,120,73.619631902
+"Bloodstream","Acinetobacter spp.","Colistin","TUN","Tunisia","Eastern Mediterranean Region",66,16,24.242424242
+"Bloodstream","Acinetobacter spp.","Gentamicin","TUN","Tunisia","Eastern Mediterranean Region",164,135,82.317073171
+"Bloodstream","Acinetobacter spp.","Imipenem","TUN","Tunisia","Eastern Mediterranean Region",158,131,82.911392405
+"Bloodstream","Acinetobacter spp.","Meropenem","TUN","Tunisia","Eastern Mediterranean Region",155,132,85.161290323
+"Bloodstream","Acinetobacter spp.","Amikacin","TUR","T<U+00FC>rkiye","European Region",2976,2531,85.047043011
+"Bloodstream","Acinetobacter spp.","Colistin","TUR","T<U+00FC>rkiye","European Region",1262,159,12.599049128
+"Bloodstream","Acinetobacter spp.","Gentamicin","TUR","T<U+00FC>rkiye","European Region",1557,1343,86.255619782
+"Bloodstream","Acinetobacter spp.","Imipenem","TUR","T<U+00FC>rkiye","European Region",2726,2471,90.645634629
+"Bloodstream","Acinetobacter spp.","Meropenem","TUR","T<U+00FC>rkiye","European Region",2952,2642,89.498644986
+"Bloodstream","Acinetobacter spp.","Amikacin","TZA","United Republic of Tanzania","African Region",227,85,37.444933921
+"Bloodstream","Acinetobacter spp.","Gentamicin","TZA","United Republic of Tanzania","African Region",213,131,61.502347418
+"Bloodstream","Acinetobacter spp.","Imipenem","TZA","United Republic of Tanzania","African Region",31,16,51.612903226
+"Bloodstream","Acinetobacter spp.","Meropenem","TZA","United Republic of Tanzania","African Region",220,107,48.636363636
+"Bloodstream","Acinetobacter spp.","Amikacin","UKR","Ukraine","European Region",257,205,79.766536965
+"Bloodstream","Acinetobacter spp.","Colistin","UKR","Ukraine","European Region",82,2,2.43902439
+"Bloodstream","Acinetobacter spp.","Gentamicin","UKR","Ukraine","European Region",228,133,58.333333333
+"Bloodstream","Acinetobacter spp.","Imipenem","UKR","Ukraine","European Region",213,173,81.220657277
+"Bloodstream","Acinetobacter spp.","Meropenem","UKR","Ukraine","European Region",261,207,79.310344828
+"Bloodstream","Acinetobacter spp.","Amikacin","XKX","Kosovo","European Region",29,27,93.103448276
+"Bloodstream","Acinetobacter spp.","Colistin","XKX","Kosovo","European Region",29,4,13.793103448
+"Bloodstream","Acinetobacter spp.","Gentamicin","XKX","Kosovo","European Region",28,25,89.285714286
+"Bloodstream","Acinetobacter spp.","Imipenem","XKX","Kosovo","European Region",29,27,93.103448276
+"Bloodstream","Acinetobacter spp.","Meropenem","XKX","Kosovo","European Region",29,27,93.103448276
+"Bloodstream","Acinetobacter spp.","Amikacin","YEM","Yemen","Eastern Mediterranean Region",50,29,58
+"Bloodstream","Acinetobacter spp.","Colistin","YEM","Yemen","Eastern Mediterranean Region",12,3,25
+"Bloodstream","Acinetobacter spp.","Gentamicin","YEM","Yemen","Eastern Mediterranean Region",45,27,60
+"Bloodstream","Acinetobacter spp.","Imipenem","YEM","Yemen","Eastern Mediterranean Region",53,28,52.830188679
+"Bloodstream","Acinetobacter spp.","Meropenem","YEM","Yemen","Eastern Mediterranean Region",54,37,68.518518519
+"Bloodstream","Acinetobacter spp.","Amikacin","ZAF","South Africa","African Region",2942,1704,57.919782461
+"Bloodstream","Acinetobacter spp.","Gentamicin","ZAF","South Africa","African Region",5878,3858,65.634569581
+"Bloodstream","Acinetobacter spp.","Imipenem","ZAF","South Africa","African Region",5873,4157,70.781542653
+"Bloodstream","Acinetobacter spp.","Meropenem","ZAF","South Africa","African Region",5847,4243,72.567128442
+"Bloodstream","Acinetobacter spp.","Amikacin","ZMB","Zambia","African Region",26,2,7.692307692
+"Bloodstream","Acinetobacter spp.","Gentamicin","ZMB","Zambia","African Region",22,10,45.454545455
+"Bloodstream","Acinetobacter spp.","Imipenem","ZMB","Zambia","African Region",20,4,20
+"Bloodstream","Acinetobacter spp.","Meropenem","ZMB","Zambia","African Region",15,9,60

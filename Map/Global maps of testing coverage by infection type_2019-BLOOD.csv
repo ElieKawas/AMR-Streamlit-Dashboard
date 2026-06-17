@@ -1,0 +1,78 @@
+Filters
+"Year filter: 2019"
+"Infection type filter: Bloodstream"
+
+
+"CountryTerritoryArea","BCIsPerMillion","TotalSpecimenIsolates","IsolsPerMillion","TotalSpecimenIsolatesWithAST","ASTResult"
+"Afghanistan",0,1,0,1,100
+"Argentina",128.6,5783,115.7,5203,90
+"Australia",374.1,9533,372.4,9489,99.5
+"Austria",1150.2,10215,1143.5,10155,99.4
+"Bahrain",525,780,519,771,98.8
+"Bangladesh",1,170,0.9,155,91.2
+"Bhutan",373.9,286,370,283,99
+"Bosnia and Herzegovina",304.9,1020,304.6,1019,99.9
+"Brazil",2.9,606,2.9,606,100
+"Brunei Darussalam",1529.3,677,1527.1,676,99.9
+"Cambodia",39.4,650,39.4,650,100
+"Canada",10,379,10,379,100
+"Croatia",525,2093,522.8,2084,99.6
+"Cyprus",194.3,250,194.3,250,100
+"Czechia",730.6,7711,730.5,7710,100
+"Egypt",10.4,1114,5.8,620,55.7
+"Ethiopia",1.2,139,1.1,124,89.2
+"Finland",1694,9354,1692.6,9346,99.9
+"France",358.6,24352,358.1,24319,99.9
+"Georgia",114,433,104.8,398,91.9
+"Germany",498.2,41630,497.8,41594,99.9
+"Greece",542.4,5814,519.8,5571,95.8
+"India",17.4,24223,15.2,21171,87.4
+"Indonesia",8.5,2314,7.7,2106,91
+"Iran (Islamic Republic of)",26.2,2277,24.7,2148,94.3
+"Iraq",2,82,1.7,69,84.1
+"Ireland",1024.2,5053,1023.8,5051,100
+"Italy",619.4,37247,618.8,37208,99.9
+"Japan",1075.3,136246,1073.5,136010,99.8
+"Jordan",58.8,627,50.6,540,86.1
+"Kosovo",86,151,86,151,100
+"Lao People's Democratic Republic",43.4,314,40.1,290,92.4
+"Latvia",894.3,1712,891.7,1707,99.7
+"Lebanon",37.6,218,34.7,201,92.2
+"Libya",15.7,109,14.7,102,93.6
+"Lithuania",877.3,2452,876.5,2450,99.9
+"Luxembourg",1373.8,852,1373.8,852,100
+"Madagascar",4.6,130,4.6,130,100
+"Malawi",77.1,1467,77.1,1467,100
+"Malaysia",753.4,25194,590.6,19751,78.4
+"Mali",18.4,387,18.3,385,99.5
+"Malta",1238.1,624,1238.1,624,100
+"Mozambique",3.4,103,3.4,102,99
+"Myanmar",22.8,1201,20,1055,87.8
+"Nepal",83.8,2380,60.2,1710,71.8
+"Netherlands (Kingdom of the)",726.5,12741,726.2,12736,100
+"North Macedonia",145.4,276,145.4,276,100
+"Norway",1234,6599,1233.8,6598,100
+"Oman",219.3,1007,216.7,995,98.8
+"Pakistan",38.9,8980,33.2,7652,85.2
+"Philippines",58.4,6468,56.8,6296,97.3
+"Poland",167.5,6404,166.7,6371,99.5
+"Republic of Korea",70.4,3646,70.4,3646,100
+"Republic of Moldova",29.2,91,28,87,95.6
+"Russian Federation",8,1173,7.8,1146,97.7
+"Saudi Arabia",83,2528,80.6,2457,97.2
+"Singapore",186.4,1057,176,998,94.4
+"South Africa",343.8,20489,319.6,19046,93
+"Sri Lanka",74.8,1677,60.3,1352,80.6
+"Sudan",0.9,43,0.9,42,97.7
+"Sweden",1809.3,18598,1800.1,18503,99.5
+"Switzerland",1215.3,10424,1185.4,10168,97.5
+"Syrian Arab Republic",0.5,10,0.4,9,90
+"Thailand",76.4,5463,71.5,5113,93.6
+"Tunisia",78.5,932,70.1,832,89.3
+"Uganda",1.6,70,1.6,68,97.1
+"United Arab Emirates",262.7,2464,239,2241,90.9
+"United Kingdom of Great Britain and Northern Ireland",584.6,39230,584,39195,99.9
+"United States of America",2.1,702,2.1,702,100
+"Yemen",0.8,27,0.6,22,81.5
+"Zambia",74.4,1377,14.3,265,19.2
+"occupied Palestinian territory, including east Jerusalem",251.5,1247,235.2,1166,93.5

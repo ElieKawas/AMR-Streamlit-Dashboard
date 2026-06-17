@@ -1,0 +1,238 @@
+Filters
+Region filter: All
+Infection type filter: Bloodstream
+Bacterial pathogen filter: Streptococcus pneumoniae
+
+Summary values with at least 10 BCIs with AST results
+"Specimen","PathogenName","AntibioticName","Min","Q1","Median","Q3","Max","CTAsCount","TotalBCIsWithAST"
+"Bloodstream","Streptococcus pneumoniae","Cefotaxime",0,0,0,1.946334089,16.666666667,43,12088
+"Bloodstream","Streptococcus pneumoniae","Ceftriaxone",0,0,0,1.705600583,14.285714286,50,15068
+"Bloodstream","Streptococcus pneumoniae","Co-trimoxazole",0,23.880597015,33.333333333,46.511627907,97.93814433,29,7403
+"Bloodstream","Streptococcus pneumoniae","Oxacillin",0,4.545454545,17.647058824,31.25,87.5,33,3868
+"Bloodstream","Streptococcus pneumoniae","Penicillin G",0,1.010655387,4.446640316,11.011904762,82.608695652,58,24784
+
+
+Summary values that consider CTAs with testing coverage above the 75th percentile
+"Specimen","PathogenName","AntibioticName","Min","Q1","Median","Q3","Max","CTAsCount","TotalBCIsWithAST"
+"Bloodstream","Streptococcus pneumoniae","Cefotaxime",0,0,0,0.060459492,0.616740088,11,6235
+"Bloodstream","Streptococcus pneumoniae","Ceftriaxone",0,0,0,0,1.967493584,13,7682
+"Bloodstream","Streptococcus pneumoniae","Co-trimoxazole",4.275092937,13.749346747,30.471271788,35.662038185,46.511627907,7,5313
+"Bloodstream","Streptococcus pneumoniae","Oxacillin",0,0,0.522880098,4.481434059,8.61423221,8,2656
+"Bloodstream","Streptococcus pneumoniae","Penicillin G",0,0,1.179941003,2.099878073,10.714285714,15,14647
+
+
+Data for boxplots
+"Specimen","PathogenName","AntibioticName","Iso3","CountryTerritoryArea","WHORegionName","InterpretableAST","Resistant","ResistancePercentage"
+"Bloodstream","Streptococcus pneumoniae","Cefotaxime","ARE","United Arab Emirates","Eastern Mediterranean Region",147,3,2.040816327
+"Bloodstream","Streptococcus pneumoniae","Ceftriaxone","ARE","United Arab Emirates","Eastern Mediterranean Region",228,5,2.192982456
+"Bloodstream","Streptococcus pneumoniae","Co-trimoxazole","ARE","United Arab Emirates","Eastern Mediterranean Region",218,73,33.486238532
+"Bloodstream","Streptococcus pneumoniae","Oxacillin","ARE","United Arab Emirates","Eastern Mediterranean Region",21,6,28.571428571
+"Bloodstream","Streptococcus pneumoniae","Penicillin G","ARE","United Arab Emirates","Eastern Mediterranean Region",205,8,3.902439024
+"Bloodstream","Streptococcus pneumoniae","Cefotaxime","AUS","Australia","Western Pacific Region",110,1,0.909090909
+"Bloodstream","Streptococcus pneumoniae","Ceftriaxone","AUS","Australia","Western Pacific Region",458,2,0.436681223
+"Bloodstream","Streptococcus pneumoniae","Co-trimoxazole","AUS","Australia","Western Pacific Region",300,50,16.666666667
+"Bloodstream","Streptococcus pneumoniae","Penicillin G","AUS","Australia","Western Pacific Region",609,6,0.985221675
+"Bloodstream","Streptococcus pneumoniae","Cefotaxime","AUT","Austria","European Region",304,0,0
+"Bloodstream","Streptococcus pneumoniae","Ceftriaxone","AUT","Austria","European Region",228,0,0
+"Bloodstream","Streptococcus pneumoniae","Oxacillin","AUT","Austria","European Region",109,5,4.587155963
+"Bloodstream","Streptococcus pneumoniae","Penicillin G","AUT","Austria","European Region",503,7,1.391650099
+"Bloodstream","Streptococcus pneumoniae","Cefotaxime","BEL","Belgium","European Region",1654,2,0.120918984
+"Bloodstream","Streptococcus pneumoniae","Penicillin G","BEL","Belgium","European Region",1654,34,2.055622733
+"Bloodstream","Streptococcus pneumoniae","Cefotaxime","BEN","Benin","African Region",20,0,0
+"Bloodstream","Streptococcus pneumoniae","Ceftriaxone","BEN","Benin","African Region",20,0,0
+"Bloodstream","Streptococcus pneumoniae","Ceftriaxone","BHR","Bahrain","Eastern Mediterranean Region",10,1,10
+"Bloodstream","Streptococcus pneumoniae","Penicillin G","BHR","Bahrain","Eastern Mediterranean Region",13,1,7.692307692
+"Bloodstream","Streptococcus pneumoniae","Cefotaxime","BIH","Bosnia and Herzegovina","European Region",30,5,16.666666667
+"Bloodstream","Streptococcus pneumoniae","Ceftriaxone","BIH","Bosnia and Herzegovina","European Region",35,5,14.285714286
+"Bloodstream","Streptococcus pneumoniae","Oxacillin","BIH","Bosnia and Herzegovina","European Region",37,12,32.432432432
+"Bloodstream","Streptococcus pneumoniae","Penicillin G","BIH","Bosnia and Herzegovina","European Region",37,14,37.837837838
+"Bloodstream","Streptococcus pneumoniae","Cefotaxime","BRA","Brazil","Region of the Americas",21,2,9.523809524
+"Bloodstream","Streptococcus pneumoniae","Ceftriaxone","BRA","Brazil","Region of the Americas",78,0,0
+"Bloodstream","Streptococcus pneumoniae","Co-trimoxazole","BRA","Brazil","Region of the Americas",66,14,21.212121212
+"Bloodstream","Streptococcus pneumoniae","Penicillin G","BRA","Brazil","Region of the Americas",84,7,8.333333333
+"Bloodstream","Streptococcus pneumoniae","Ceftriaxone","CAN","Canada","Region of the Americas",2848,2,0.070224719
+"Bloodstream","Streptococcus pneumoniae","Co-trimoxazole","CAN","Canada","Region of the Americas",2848,452,15.870786517
+"Bloodstream","Streptococcus pneumoniae","Penicillin G","CAN","Canada","Region of the Americas",2848,0,0
+"Bloodstream","Streptococcus pneumoniae","Cefotaxime","CHE","Switzerland","European Region",25,0,0
+"Bloodstream","Streptococcus pneumoniae","Ceftriaxone","CHE","Switzerland","European Region",561,0,0
+"Bloodstream","Streptococcus pneumoniae","Co-trimoxazole","CHE","Switzerland","European Region",538,23,4.275092937
+"Bloodstream","Streptococcus pneumoniae","Oxacillin","CHE","Switzerland","European Region",267,23,8.61423221
+"Bloodstream","Streptococcus pneumoniae","Penicillin G","CHE","Switzerland","European Region",906,32,3.53200883
+"Bloodstream","Streptococcus pneumoniae","Co-trimoxazole","COD","Democratic Republic of the Congo","African Region",97,95,97.93814433
+"Bloodstream","Streptococcus pneumoniae","Cefotaxime","COL","Colombia","Region of the Americas",705,29,4.113475177
+"Bloodstream","Streptococcus pneumoniae","Ceftriaxone","COL","Colombia","Region of the Americas",1169,23,1.967493584
+"Bloodstream","Streptococcus pneumoniae","Co-trimoxazole","COL","Colombia","Region of the Americas",1549,472,30.471271788
+"Bloodstream","Streptococcus pneumoniae","Penicillin G","COL","Colombia","Region of the Americas",1345,35,2.602230483
+"Bloodstream","Streptococcus pneumoniae","Cefotaxime","CYP","Cyprus","European Region",18,0,0
+"Bloodstream","Streptococcus pneumoniae","Ceftriaxone","CYP","Cyprus","European Region",10,0,0
+"Bloodstream","Streptococcus pneumoniae","Penicillin G","CYP","Cyprus","European Region",28,6,21.428571429
+"Bloodstream","Streptococcus pneumoniae","Cefotaxime","CZE","Czechia","European Region",413,0,0
+"Bloodstream","Streptococcus pneumoniae","Oxacillin","CZE","Czechia","European Region",323,0,0
+"Bloodstream","Streptococcus pneumoniae","Penicillin G","CZE","Czechia","European Region",115,1,0.869565217
+"Bloodstream","Streptococcus pneumoniae","Cefotaxime","DEU","Germany","European Region",1687,0,0
+"Bloodstream","Streptococcus pneumoniae","Ceftriaxone","DEU","Germany","European Region",1531,4,0.261267146
+"Bloodstream","Streptococcus pneumoniae","Penicillin G","DEU","Germany","European Region",3358,72,2.144133413
+"Bloodstream","Streptococcus pneumoniae","Ceftriaxone","DNK","Denmark","European Region",84,0,0
+"Bloodstream","Streptococcus pneumoniae","Oxacillin","DNK","Denmark","European Region",347,1,0.288184438
+"Bloodstream","Streptococcus pneumoniae","Penicillin G","DNK","Denmark","European Region",226,1,0.442477876
+"Bloodstream","Streptococcus pneumoniae","Cefotaxime","EST","Estonia","European Region",87,0,0
+"Bloodstream","Streptococcus pneumoniae","Ceftriaxone","EST","Estonia","European Region",42,0,0
+"Bloodstream","Streptococcus pneumoniae","Oxacillin","EST","Estonia","European Region",20,1,5
+"Bloodstream","Streptococcus pneumoniae","Penicillin G","EST","Estonia","European Region",104,0,0
+"Bloodstream","Streptococcus pneumoniae","Penicillin G","FIN","Finland","European Region",411,2,0.486618005
+"Bloodstream","Streptococcus pneumoniae","Cefotaxime","FRA","France","European Region",863,1,0.115874855
+"Bloodstream","Streptococcus pneumoniae","Penicillin G","FRA","France","European Region",863,18,2.085747393
+"Bloodstream","Streptococcus pneumoniae","Cefotaxime","GBR","United Kingdom of Great Britain and Northern Ireland","European Region",1135,7,0.616740088
+"Bloodstream","Streptococcus pneumoniae","Ceftriaxone","GBR","United Kingdom of Great Britain and Northern Ireland","European Region",1559,8,0.513149455
+"Bloodstream","Streptococcus pneumoniae","Oxacillin","GBR","United Kingdom of Great Britain and Northern Ireland","European Region",187,13,6.951871658
+"Bloodstream","Streptococcus pneumoniae","Penicillin G","GBR","United Kingdom of Great Britain and Northern Ireland","European Region",3620,63,1.740331492
+"Bloodstream","Streptococcus pneumoniae","Cefotaxime","GEO","Georgia","European Region",13,1,7.692307692
+"Bloodstream","Streptococcus pneumoniae","Ceftriaxone","GEO","Georgia","European Region",29,0,0
+"Bloodstream","Streptococcus pneumoniae","Cefotaxime","GRC","Greece","European Region",66,1,1.515151515
+"Bloodstream","Streptococcus pneumoniae","Penicillin G","GRC","Greece","European Region",58,0,0
+"Bloodstream","Streptococcus pneumoniae","Cefotaxime","HKG","China, Hong Kong SAR","Western Pacific Region",54,1,1.851851852
+"Bloodstream","Streptococcus pneumoniae","Ceftriaxone","HKG","China, Hong Kong SAR","Western Pacific Region",37,0,0
+"Bloodstream","Streptococcus pneumoniae","Co-trimoxazole","HKG","China, Hong Kong SAR","Western Pacific Region",47,23,48.936170213
+"Bloodstream","Streptococcus pneumoniae","Penicillin G","HKG","China, Hong Kong SAR","Western Pacific Region",68,0,0
+"Bloodstream","Streptococcus pneumoniae","Ceftriaxone","HRV","Croatia","European Region",75,0,0
+"Bloodstream","Streptococcus pneumoniae","Oxacillin","HRV","Croatia","European Region",88,0,0
+"Bloodstream","Streptococcus pneumoniae","Penicillin G","HRV","Croatia","European Region",26,0,0
+"Bloodstream","Streptococcus pneumoniae","Cefotaxime","IDN","Indonesia","South-East Asia Region",36,3,8.333333333
+"Bloodstream","Streptococcus pneumoniae","Ceftriaxone","IDN","Indonesia","South-East Asia Region",31,2,6.451612903
+"Bloodstream","Streptococcus pneumoniae","Co-trimoxazole","IDN","Indonesia","South-East Asia Region",42,13,30.952380952
+"Bloodstream","Streptococcus pneumoniae","Oxacillin","IDN","Indonesia","South-East Asia Region",14,1,7.142857143
+"Bloodstream","Streptococcus pneumoniae","Penicillin G","IDN","Indonesia","South-East Asia Region",31,2,6.451612903
+"Bloodstream","Streptococcus pneumoniae","Cefotaxime","IRL","Ireland","European Region",138,0,0
+"Bloodstream","Streptococcus pneumoniae","Ceftriaxone","IRL","Ireland","European Region",187,0,0
+"Bloodstream","Streptococcus pneumoniae","Penicillin G","IRL","Ireland","European Region",339,4,1.179941003
+"Bloodstream","Streptococcus pneumoniae","Co-trimoxazole","IRN","Iran (Islamic Republic of)","Eastern Mediterranean Region",32,25,78.125
+"Bloodstream","Streptococcus pneumoniae","Oxacillin","IRN","Iran (Islamic Republic of)","Eastern Mediterranean Region",22,19,86.363636364
+"Bloodstream","Streptococcus pneumoniae","Penicillin G","IRN","Iran (Islamic Republic of)","Eastern Mediterranean Region",23,19,82.608695652
+"Bloodstream","Streptococcus pneumoniae","Co-trimoxazole","IRQ","Iraq","Eastern Mediterranean Region",10,3,30
+"Bloodstream","Streptococcus pneumoniae","Ceftriaxone","ISL","Iceland","European Region",35,0,0
+"Bloodstream","Streptococcus pneumoniae","Penicillin G","ISL","Iceland","European Region",35,0,0
+"Bloodstream","Streptococcus pneumoniae","Cefotaxime","ITA","Italy","European Region",951,9,0.94637224
+"Bloodstream","Streptococcus pneumoniae","Ceftriaxone","ITA","Italy","European Region",621,6,0.966183575
+"Bloodstream","Streptococcus pneumoniae","Penicillin G","ITA","Italy","European Region",1132,41,3.621908127
+"Bloodstream","Streptococcus pneumoniae","Cefotaxime","JOR","Jordan","Eastern Mediterranean Region",45,3,6.666666667
+"Bloodstream","Streptococcus pneumoniae","Ceftriaxone","JOR","Jordan","Eastern Mediterranean Region",49,4,8.163265306
+"Bloodstream","Streptococcus pneumoniae","Co-trimoxazole","JOR","Jordan","Eastern Mediterranean Region",30,13,43.333333333
+"Bloodstream","Streptococcus pneumoniae","Penicillin G","JOR","Jordan","Eastern Mediterranean Region",38,14,36.842105263
+"Bloodstream","Streptococcus pneumoniae","Cefotaxime","JPN","Japan","Western Pacific Region",1772,16,0.902934537
+"Bloodstream","Streptococcus pneumoniae","Ceftriaxone","JPN","Japan","Western Pacific Region",1938,15,0.773993808
+"Bloodstream","Streptococcus pneumoniae","Penicillin G","JPN","Japan","Western Pacific Region",2033,5,0.245941958
+"Bloodstream","Streptococcus pneumoniae","Ceftriaxone","KHM","Cambodia","Western Pacific Region",25,0,0
+"Bloodstream","Streptococcus pneumoniae","Penicillin G","KHM","Cambodia","Western Pacific Region",14,8,57.142857143
+"Bloodstream","Streptococcus pneumoniae","Cefotaxime","KOR","Republic of Korea","Western Pacific Region",27,2,7.407407407
+"Bloodstream","Streptococcus pneumoniae","Ceftriaxone","KOR","Republic of Korea","Western Pacific Region",27,2,7.407407407
+"Bloodstream","Streptococcus pneumoniae","Co-trimoxazole","KOR","Republic of Korea","Western Pacific Region",27,9,33.333333333
+"Bloodstream","Streptococcus pneumoniae","Oxacillin","KOR","Republic of Korea","Western Pacific Region",27,19,70.37037037
+"Bloodstream","Streptococcus pneumoniae","Penicillin G","KOR","Republic of Korea","Western Pacific Region",27,3,11.111111111
+"Bloodstream","Streptococcus pneumoniae","Cefotaxime","KWT","Kuwait","Eastern Mediterranean Region",71,0,0
+"Bloodstream","Streptococcus pneumoniae","Ceftriaxone","KWT","Kuwait","Eastern Mediterranean Region",94,0,0
+"Bloodstream","Streptococcus pneumoniae","Co-trimoxazole","KWT","Kuwait","Eastern Mediterranean Region",74,28,37.837837838
+"Bloodstream","Streptococcus pneumoniae","Oxacillin","KWT","Kuwait","Eastern Mediterranean Region",16,5,31.25
+"Bloodstream","Streptococcus pneumoniae","Penicillin G","KWT","Kuwait","Eastern Mediterranean Region",73,15,20.547945205
+"Bloodstream","Streptococcus pneumoniae","Ceftriaxone","LAO","Lao People's Democratic Republic","Western Pacific Region",14,0,0
+"Bloodstream","Streptococcus pneumoniae","Co-trimoxazole","LAO","Lao People's Democratic Republic","Western Pacific Region",17,12,70.588235294
+"Bloodstream","Streptococcus pneumoniae","Oxacillin","LAO","Lao People's Democratic Republic","Western Pacific Region",16,14,87.5
+"Bloodstream","Streptococcus pneumoniae","Penicillin G","LAO","Lao People's Democratic Republic","Western Pacific Region",16,1,6.25
+"Bloodstream","Streptococcus pneumoniae","Cefotaxime","LKA","Sri Lanka","South-East Asia Region",41,1,2.43902439
+"Bloodstream","Streptococcus pneumoniae","Cefotaxime","LTU","Lithuania","European Region",55,0,0
+"Bloodstream","Streptococcus pneumoniae","Ceftriaxone","LTU","Lithuania","European Region",122,0,0
+"Bloodstream","Streptococcus pneumoniae","Penicillin G","LTU","Lithuania","European Region",177,0,0
+"Bloodstream","Streptococcus pneumoniae","Cefotaxime","LUX","Luxembourg","European Region",35,0,0
+"Bloodstream","Streptococcus pneumoniae","Ceftriaxone","LUX","Luxembourg","European Region",27,0,0
+"Bloodstream","Streptococcus pneumoniae","Penicillin G","LUX","Luxembourg","European Region",62,2,3.225806452
+"Bloodstream","Streptococcus pneumoniae","Co-trimoxazole","LVA","Latvia","European Region",43,5,11.627906977
+"Bloodstream","Streptococcus pneumoniae","Oxacillin","LVA","Latvia","European Region",44,2,4.545454545
+"Bloodstream","Streptococcus pneumoniae","Penicillin G","LVA","Latvia","European Region",44,2,4.545454545
+"Bloodstream","Streptococcus pneumoniae","Cefotaxime","MAR","Morocco","Eastern Mediterranean Region",13,0,0
+"Bloodstream","Streptococcus pneumoniae","Ceftriaxone","MAR","Morocco","Eastern Mediterranean Region",14,0,0
+"Bloodstream","Streptococcus pneumoniae","Co-trimoxazole","MAR","Morocco","Eastern Mediterranean Region",12,3,25
+"Bloodstream","Streptococcus pneumoniae","Oxacillin","MAR","Morocco","Eastern Mediterranean Region",17,3,17.647058824
+"Bloodstream","Streptococcus pneumoniae","Penicillin G","MAR","Morocco","Eastern Mediterranean Region",20,2,10
+"Bloodstream","Streptococcus pneumoniae","Ceftriaxone","MLI","Mali","African Region",19,0,0
+"Bloodstream","Streptococcus pneumoniae","Co-trimoxazole","MLI","Mali","African Region",39,24,61.538461538
+"Bloodstream","Streptococcus pneumoniae","Oxacillin","MLI","Mali","African Region",39,21,53.846153846
+"Bloodstream","Streptococcus pneumoniae","Penicillin G","MLI","Mali","African Region",39,21,53.846153846
+"Bloodstream","Streptococcus pneumoniae","Ceftriaxone","MLT","Malta","European Region",26,0,0
+"Bloodstream","Streptococcus pneumoniae","Penicillin G","MLT","Malta","European Region",28,3,10.714285714
+"Bloodstream","Streptococcus pneumoniae","Cefotaxime","MUS","Mauritius","African Region",12,0,0
+"Bloodstream","Streptococcus pneumoniae","Co-trimoxazole","MUS","Mauritius","African Region",12,0,0
+"Bloodstream","Streptococcus pneumoniae","Penicillin G","MUS","Mauritius","African Region",12,0,0
+"Bloodstream","Streptococcus pneumoniae","Cefotaxime","MYS","Malaysia","Western Pacific Region",90,0,0
+"Bloodstream","Streptococcus pneumoniae","Ceftriaxone","MYS","Malaysia","Western Pacific Region",232,2,0.862068966
+"Bloodstream","Streptococcus pneumoniae","Co-trimoxazole","MYS","Malaysia","Western Pacific Region",387,94,24.289405685
+"Bloodstream","Streptococcus pneumoniae","Oxacillin","MYS","Malaysia","Western Pacific Region",166,46,27.710843373
+"Bloodstream","Streptococcus pneumoniae","Penicillin G","MYS","Malaysia","Western Pacific Region",368,23,6.25
+"Bloodstream","Streptococcus pneumoniae","Cefotaxime","NLD","Netherlands (Kingdom of the)","European Region",361,0,0
+"Bloodstream","Streptococcus pneumoniae","Ceftriaxone","NLD","Netherlands (Kingdom of the)","European Region",781,0,0
+"Bloodstream","Streptococcus pneumoniae","Oxacillin","NLD","Netherlands (Kingdom of the)","European Region",426,19,4.460093897
+"Bloodstream","Streptococcus pneumoniae","Penicillin G","NLD","Netherlands (Kingdom of the)","European Region",644,7,1.086956522
+"Bloodstream","Streptococcus pneumoniae","Cefotaxime","NOR","Norway","European Region",366,1,0.273224044
+"Bloodstream","Streptococcus pneumoniae","Ceftriaxone","NOR","Norway","European Region",28,0,0
+"Bloodstream","Streptococcus pneumoniae","Oxacillin","NOR","Norway","European Region",105,0,0
+"Bloodstream","Streptococcus pneumoniae","Penicillin G","NOR","Norway","European Region",376,0,0
+"Bloodstream","Streptococcus pneumoniae","Co-trimoxazole","NPL","Nepal","South-East Asia Region",32,29,90.625
+"Bloodstream","Streptococcus pneumoniae","Oxacillin","NPL","Nepal","South-East Asia Region",22,4,18.181818182
+"Bloodstream","Streptococcus pneumoniae","Penicillin G","NPL","Nepal","South-East Asia Region",28,4,14.285714286
+"Bloodstream","Streptococcus pneumoniae","Cefotaxime","OMN","Oman","Eastern Mediterranean Region",23,0,0
+"Bloodstream","Streptococcus pneumoniae","Ceftriaxone","OMN","Oman","Eastern Mediterranean Region",92,0,0
+"Bloodstream","Streptococcus pneumoniae","Co-trimoxazole","OMN","Oman","Eastern Mediterranean Region",67,16,23.880597015
+"Bloodstream","Streptococcus pneumoniae","Oxacillin","OMN","Oman","Eastern Mediterranean Region",14,6,42.857142857
+"Bloodstream","Streptococcus pneumoniae","Penicillin G","OMN","Oman","Eastern Mediterranean Region",79,26,32.911392405
+"Bloodstream","Streptococcus pneumoniae","Cefotaxime","PAK","Pakistan","Eastern Mediterranean Region",10,0,0
+"Bloodstream","Streptococcus pneumoniae","Ceftriaxone","PAK","Pakistan","Eastern Mediterranean Region",250,0,0
+"Bloodstream","Streptococcus pneumoniae","Co-trimoxazole","PAK","Pakistan","Eastern Mediterranean Region",154,134,87.012987013
+"Bloodstream","Streptococcus pneumoniae","Penicillin G","PAK","Pakistan","Eastern Mediterranean Region",258,81,31.395348837
+"Bloodstream","Streptococcus pneumoniae","Ceftriaxone","PHL","Philippines","Western Pacific Region",34,1,2.941176471
+"Bloodstream","Streptococcus pneumoniae","Co-trimoxazole","PHL","Philippines","Western Pacific Region",92,21,22.826086957
+"Bloodstream","Streptococcus pneumoniae","Oxacillin","PHL","Philippines","Western Pacific Region",42,1,2.380952381
+"Bloodstream","Streptococcus pneumoniae","Penicillin G","PHL","Philippines","Western Pacific Region",71,1,1.408450704
+"Bloodstream","Streptococcus pneumoniae","Co-trimoxazole","PNG","Papua New Guinea","Western Pacific Region",15,5,33.333333333
+"Bloodstream","Streptococcus pneumoniae","Oxacillin","PNG","Papua New Guinea","Western Pacific Region",15,2,13.333333333
+"Bloodstream","Streptococcus pneumoniae","Penicillin G","PNG","Papua New Guinea","Western Pacific Region",15,2,13.333333333
+"Bloodstream","Streptococcus pneumoniae","Cefotaxime","POL","Poland","European Region",110,0,0
+"Bloodstream","Streptococcus pneumoniae","Ceftriaxone","POL","Poland","European Region",367,4,1.089918256
+"Bloodstream","Streptococcus pneumoniae","Oxacillin","POL","Poland","European Region",176,14,7.954545455
+"Bloodstream","Streptococcus pneumoniae","Penicillin G","POL","Poland","European Region",310,31,10
+"Bloodstream","Streptococcus pneumoniae","Cefotaxime","PSE","occupied Palestinian territory, including east Jerusalem","Eastern Mediterranean Region",28,0,0
+"Bloodstream","Streptococcus pneumoniae","Ceftriaxone","PSE","occupied Palestinian territory, including east Jerusalem","Eastern Mediterranean Region",33,1,3.03030303
+"Bloodstream","Streptococcus pneumoniae","Co-trimoxazole","PSE","occupied Palestinian territory, including east Jerusalem","Eastern Mediterranean Region",29,8,27.586206897
+"Bloodstream","Streptococcus pneumoniae","Oxacillin","PSE","occupied Palestinian territory, including east Jerusalem","Eastern Mediterranean Region",10,0,0
+"Bloodstream","Streptococcus pneumoniae","Penicillin G","PSE","occupied Palestinian territory, including east Jerusalem","Eastern Mediterranean Region",30,4,13.333333333
+"Bloodstream","Streptococcus pneumoniae","Ceftriaxone","QAT","Qatar","Eastern Mediterranean Region",97,0,0
+"Bloodstream","Streptococcus pneumoniae","Co-trimoxazole","QAT","Qatar","Eastern Mediterranean Region",43,20,46.511627907
+"Bloodstream","Streptococcus pneumoniae","Cefotaxime","RUS","Russian Federation","European Region",134,4,2.985074627
+"Bloodstream","Streptococcus pneumoniae","Ceftriaxone","RUS","Russian Federation","European Region",136,4,2.941176471
+"Bloodstream","Streptococcus pneumoniae","Oxacillin","RUS","Russian Federation","European Region",33,7,21.212121212
+"Bloodstream","Streptococcus pneumoniae","Penicillin G","RUS","Russian Federation","European Region",161,9,5.590062112
+"Bloodstream","Streptococcus pneumoniae","Cefotaxime","SAU","Saudi Arabia","Eastern Mediterranean Region",21,0,0
+"Bloodstream","Streptococcus pneumoniae","Ceftriaxone","SAU","Saudi Arabia","Eastern Mediterranean Region",35,1,2.857142857
+"Bloodstream","Streptococcus pneumoniae","Penicillin G","SAU","Saudi Arabia","Eastern Mediterranean Region",26,2,7.692307692
+"Bloodstream","Streptococcus pneumoniae","Ceftriaxone","SGP","Singapore","Western Pacific Region",22,0,0
+"Bloodstream","Streptococcus pneumoniae","Oxacillin","SGP","Singapore","Western Pacific Region",22,13,59.090909091
+"Bloodstream","Streptococcus pneumoniae","Penicillin G","SGP","Singapore","Western Pacific Region",23,1,4.347826087
+"Bloodstream","Streptococcus pneumoniae","Oxacillin","SWE","Sweden","European Region",1056,8,0.757575758
+"Bloodstream","Streptococcus pneumoniae","Penicillin G","SWE","Sweden","European Region",267,0,0
+"Bloodstream","Streptococcus pneumoniae","Cefotaxime","THA","Thailand","South-East Asia Region",156,2,1.282051282
+"Bloodstream","Streptococcus pneumoniae","Ceftriaxone","THA","Thailand","South-East Asia Region",157,3,1.910828025
+"Bloodstream","Streptococcus pneumoniae","Co-trimoxazole","THA","Thailand","South-East Asia Region",220,92,41.818181818
+"Bloodstream","Streptococcus pneumoniae","Oxacillin","THA","Thailand","South-East Asia Region",50,12,24
+"Bloodstream","Streptococcus pneumoniae","Penicillin G","THA","Thailand","South-East Asia Region",264,14,5.303030303
+"Bloodstream","Streptococcus pneumoniae","Cefotaxime","TUR","T<U+00FC>rkiye","European Region",174,11,6.32183908
+"Bloodstream","Streptococcus pneumoniae","Ceftriaxone","TUR","T<U+00FC>rkiye","European Region",138,7,5.072463768
+"Bloodstream","Streptococcus pneumoniae","Oxacillin","TUR","T<U+00FC>rkiye","European Region",66,43,65.151515152
+"Bloodstream","Streptococcus pneumoniae","Penicillin G","TUR","T<U+00FC>rkiye","European Region",237,37,15.611814346
+"Bloodstream","Streptococcus pneumoniae","Cefotaxime","UKR","Ukraine","European Region",57,0,0
+"Bloodstream","Streptococcus pneumoniae","Ceftriaxone","UKR","Ukraine","European Region",62,0,0
+"Bloodstream","Streptococcus pneumoniae","Oxacillin","UKR","Ukraine","European Region",61,13,21.31147541
+"Bloodstream","Streptococcus pneumoniae","Penicillin G","UKR","Ukraine","European Region",30,3,10
+"Bloodstream","Streptococcus pneumoniae","Cefotaxime","XKX","Kosovo","European Region",10,0,0
+"Bloodstream","Streptococcus pneumoniae","Ceftriaxone","XKX","Kosovo","European Region",10,0,0
+"Bloodstream","Streptococcus pneumoniae","Oxacillin","XKX","Kosovo","European Region",10,2,20
+"Bloodstream","Streptococcus pneumoniae","Penicillin G","XKX","Kosovo","European Region",10,1,10
+"Bloodstream","Streptococcus pneumoniae","Ceftriaxone","ZAF","South Africa","African Region",363,0,0
+"Bloodstream","Streptococcus pneumoniae","Co-trimoxazole","ZAF","South Africa","African Region",363,163,44.903581267
+"Bloodstream","Streptococcus pneumoniae","Penicillin G","ZAF","South Africa","African Region",363,123,33.884297521
